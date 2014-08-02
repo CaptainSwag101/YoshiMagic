@@ -1,0 +1,38 @@
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi Magic.vbproj.ResolveComReference.cache
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\bin\x86\Release\Yoshi Magic.exe
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\bin\x86\Release\Yoshi Magic.pdb
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\bin\x86\Release\Yoshi Magic.xml
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.AboutBox1.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.battlemaps.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Battle_Editor.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.EnemyEditor2.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Form4.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Form5.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Form6.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Form7.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Item_Editor.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.pitenemyedit.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Shop_Editor.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Text_Editor3.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Find_and_Replace.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Form1.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Form2.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Form3.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Party_Editor.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Resources.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.roomproperties.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Text_Editor.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi Magic.exe
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi Magic.xml
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi Magic.pdb
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.UserControl1.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.UserControl2.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Form8.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.PITMaps.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.BISMaps.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Form9.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Form10.resources
+C:\Users\charleysdrpepper\Desktop\Treasure Trove\Mario & Luigi\Yoshi Magic Editor\Yoshi Magic v0.1\Yoshi Magic\obj\x86\Release\Yoshi_Magic.Form11.resources

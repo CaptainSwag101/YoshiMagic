@@ -1,0 +1,80 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+YoshiMagic
+</name>
+</assembly>
+<members>
+<member name="M:Yoshi_Magic.Text_Editor.find(System.SByte,System.Int32)">
+	<summary>
+	</summary>
+	<param name="direction">-1 for Find Previous; 1 for Find Next.</param>
+	<param name="goalindex">Should be 0 for Previous; lines for Next.</param>
+	<remarks></remarks>
+</member><member name="M:Yoshi_Magic.battlemaps.disimg(System.Drawing.Bitmap,System.Int32)">
+	<summary>
+ Display a pixel compressed image. (It should already be decompressed into variable data2.)
+ </summary>
+	<param name="bmp">Bitmap to display image on.</param>
+	<param name="numb">Which image? (0-2)</param>
+	<remarks></remarks>
+</member><member name="M:Yoshi_Magic.battlemaps.tilesetnum(System.Windows.Forms.NumericUpDown,System.Windows.Forms.PictureBox,System.Drawing.Bitmap)">
+	<summary>
+ Displays a tileset.
+ </summary>
+	<param name="nud">Numeric U/D that holds the Tileset number.</param>
+	<param name="pb">PictureBox to put Bitmap in.</param>
+	<param name="bm">Bitmap to put tileset image in.</param>
+	<remarks></remarks>
+</member><member name="M:Yoshi_Magic.battlemaps.layer1(System.Windows.Forms.Panel,System.Drawing.Bitmap,System.Int32)">
+	<summary>
+ Sets a map layer to a Panel.
+ </summary>
+	<param name="a">Panel to show layer on.</param>
+	<param name="lay">Map layer index number (0, 1, or 2)</param>
+	<remarks>REMARKS!</remarks>
+</member><member name="M:Yoshi_Magic.roomproperties.disimg(System.Drawing.Bitmap,System.Int32)">
+	<summary>
+ Display a pixel compressed image. (It should already be decompressed into variable data2.)
+ </summary>
+	<param name="bmp">Bitmap to display image on.</param>
+	<param name="numb">Which image? (0-2)</param>
+	<remarks></remarks>
+</member><member name="M:Yoshi_Magic.roomproperties.tilesetnum(System.Windows.Forms.NumericUpDown,System.Windows.Forms.PictureBox,System.Drawing.Bitmap)">
+	<summary>
+ Displays a tileset.
+ </summary>
+	<param name="nud">Numeric U/D that holds the Tileset number.</param>
+	<param name="pb">PictureBox to put Bitmap in.</param>
+	<param name="bm">Bitmap to put tileset image in.</param>
+	<remarks></remarks>
+</member><member name="M:Yoshi_Magic.roomproperties.layer1(System.Windows.Forms.Panel,System.Drawing.Bitmap,System.Int32)">
+	<summary>
+ Sets a map layer to a Panel.
+ </summary>
+	<param name="a">Panel to show layer on.</param>
+	<param name="lay">Map layer index number (0, 1, or 2)</param>
+	<remarks>REMARKS!</remarks>
+</member><member name="P:Yoshi_Magic.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Yoshi_Magic.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Yoshi_Magic.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Yoshi_Magic.Text_Editor3.find(System.SByte,System.Int32)">
+	<summary>
+	</summary>
+	<param name="direction">-1 for Find Previous; 1 for Find Next.</param>
+	<param name="goalindex">Should be 0 for Previous; lines for Next.</param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
